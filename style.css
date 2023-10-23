@@ -1,0 +1,177 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#background {
+    position: absolute;
+    top: -30px;
+    z-index: -1;
+}
+
+#background2 {
+    position: absolute;
+    top: 280px;
+    z-index: -1;
+}
+
+#logo {
+    position: absolute;
+    top: -78px;
+    height: 300px;
+    width: 250px;
+}
+
+#fuguete {
+    width: 50px;
+    height: 60px;
+    position: fixed;
+    left: 1820px;
+    top: 830px;
+    z-index: 3;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:active {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+#cabeçalho {
+    margin-top: 58px;
+    font-size: 16pt;
+}
+
+#botao1 {
+    position: absolute;
+    left: 290px;
+}
+
+#botao2 {
+    position: absolute;
+    left: 420px;
+}
+
+#botao3 {
+    position: absolute;
+    left: 540px;
+}
+
+#planetas {
+    position: absolute;
+    top: 350px;
+    right: 200px;
+    left: 165px;
+}
+
+#sol {
+    position: absolute;
+}
+
+#mercurio {
+    position: absolute;
+    left: 400px;
+    top: 215px;
+    width: 50px;
+    height: 50px;
+    transform: rotate(180deg);
+}
+
+#venus {
+    position: absolute;
+    top: 194px;
+    left: 510px;
+    width: 80px;
+    height: 80px;
+
+}
+
+#terra {
+    position: absolute;
+    top: 185px;
+    left: 632px;
+    width: 100px;
+    height: 100px;
+}
+
+#marte {
+    position: absolute;
+    top: 197px;
+    left: 762px;
+    width: 75px;
+    height: 75px;
+    transform: rotate(180deg);
+}
+
+#jupiter {
+    position: absolute;
+    top: 156px;
+    left: 852px;
+    width: 155px;
+    height: 155px;
+    transform: rotate(186deg);
+}
+
+#saturno {
+    position: absolute;
+    top: 164px;
+    left: 992px;
+    width: 285px;
+    height: 140px;
+}
+
+#urano {
+    position: absolute;
+    top: 166px;
+    left: 1262px;
+    width: 122px;
+    height: 122px;
+    transform: rotate(241deg);
+}
+
+#netuno {
+    position: absolute;
+    top: 162px;
+    left: 1392px;
+    width: 125px;
+    height: 125px;
+    transform: rotate(186deg);
+}
+
+#curiosidades{
+    position: absolute;
+    margin-top: 870px;
+    left: 100px;
+    text-align: left;
+    font-size: 25pt;
+}
+
+#curiosidades2{
+    position: absolute;
+    margin-top: 930px;
+    left: 100px;
+    margin-right: 110px;
+    text-align: left;
+    font-size: 15pt;
+
+}

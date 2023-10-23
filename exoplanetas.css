@@ -1,0 +1,144 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fuguete2{
+    width: 50px;
+    height:60px;
+    position: fixed;
+    left: 1820px;
+    top:830px;
+    z-index: 3;
+}
+
+#background3 {
+    position: absolute;
+    top: 1080px;
+    z-index: -1;
+}
+#background4{
+    position: absolute;
+    top: -30px;
+    z-index: -1;
+}
+
+#background5{
+    position: absolute;
+    top: 3000px;
+    z-index: -1;
+}
+
+#background6{
+    position: absolute;
+    top: 2160px;
+    z-index: -1;
+}
+
+#logo {
+    position: absolute;
+    top: -78px;
+    height: 300px;
+    width: 250px;
+    left: -0.5px;
+}
+
+
+#cabeçalho3 {
+    margin-top: 58px;
+    font-size: 16pt;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:active {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+#botao1 {
+    position: absolute;
+    left: 290px;
+}
+
+#botao2 {
+    position: absolute;
+    left: 420px;
+}
+
+#botao3 {
+    position: absolute;
+    left: 540px;
+}
+
+#planetawolf {
+    width: 700px;
+    height: 700px;
+}
+
+#wolfb {
+    position: absolute;
+    top: 140px;
+}
+
+#planetatres {
+    margin-left: -84px;
+    width: 870px;
+    height: 663px;
+}
+
+#TrES {
+    position: absolute;
+    top: 900px;
+}
+
+#kapteyn {
+    position: absolute;
+    top: 1660px;
+}
+
+#planetakapteyn{
+    width: 690px;
+    height: 690px;
+}
+
+#kepler62f{
+    position: absolute;
+    top: 2420px;
+}
+
+#planetakepler62f{
+    width: 810px;
+    height: 810px;
+    margin-left: -56px;
+}
+
+#kepler20e{
+    position: absolute;
+    top: 3140px;
+}
+#planetakepler20e{
+    margin-left: 46px;
+    margin-top: 200px;
+    width: 611px;
+    height: 610px;
+}
