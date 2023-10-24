@@ -15,12 +15,6 @@ body {
     z-index: -1;
 }
 
-#background2{
-    position: absolute;
-    top: 2600px;
-    z-index: -1;
-}
-
 #logo {
     position: absolute;
     top: -78px;
