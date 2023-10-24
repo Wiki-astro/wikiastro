@@ -11,13 +11,13 @@ body {
 
 #background {
     position: absolute;
-    top: 98px;
+    top: -180px;
     z-index: -1;
 }
 
-#background2 {
+#background2{
     position: absolute;
-    top: 280px;
+    top: 2600px;
     z-index: -1;
 }
 
@@ -26,15 +26,6 @@ body {
     top: -78px;
     height: 300px;
     width: 250px;
-}
-
-#fuguete {
-    width: 50px;
-    height: 60px;
-    position: fixed;
-    left: 1820px;
-    top: 830px;
-    z-index: 3;
 }
 
 a:link {
@@ -158,20 +149,12 @@ a:active {
     transform: rotate(186deg);
 }
 
-#curiosidades{
+#sobrenos{
     position: absolute;
-    margin-top: 870px;
-    left: 100px;
-    text-align: left;
-    font-size: 25pt;
-}
-
-#curiosidades2{
-    position: absolute;
-    margin-top: 930px;
-    left: 100px;
-    margin-right: 110px;
-    text-align: left;
+    top: 1000px;
+    left: 10px;
+    text-align: center;
     font-size: 15pt;
 
 }
+
